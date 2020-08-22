@@ -10,4 +10,4 @@ Christoper James Carreon https://github.com/CCARREON16
 Workout Tracker app
 The URL to the deployed application https://ancient-crag-17293.herokuapp.com/
 
-The URL to the Github repository https://github.com/CCARREON16/WORKOUT-TRACKER
+The URL to the Github repository https://github.com/CCARREON16/Online-Offline-Budget-Trackers
