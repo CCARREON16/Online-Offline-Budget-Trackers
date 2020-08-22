@@ -143,7 +143,6 @@ function sendTransaction(isAdding) {
     amountEl.value = "";
   });
 }
-
 document.querySelector("#add-btn").onclick = function() {
   sendTransaction(true);
 };
@@ -151,3 +150,6 @@ document.querySelector("#add-btn").onclick = function() {
 document.querySelector("#sub-btn").onclick = function() {
   sendTransaction(false);
 };
+
+
+
